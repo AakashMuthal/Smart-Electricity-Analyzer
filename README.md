@@ -83,9 +83,7 @@ Smart-Electricity-Analyzer/
 │   ├── energy_recommender.py
 │   └── report_generator.py
 │
-├── README.md
-│
-└── tests/
+└── README.md
 ```
 
 ## ⚙️ Installation and Setup

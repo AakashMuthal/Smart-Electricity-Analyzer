@@ -1,0 +1,6 @@
+house_id,latest_month,total_consumption,average_consumption,highest_consumption,lowest_consumption,latest_units,estimated_bill
+H001,2026-12,2500,208.33,350,150,240,1214.0
+H002,2026-12,1880,156.67,190,120,170,762.5
+H003,2026-06,1650,275.0,440,180,280,1508.0
+h004,2026-5,110,110.0,110,110,110,447.5
+H005,2024-03,100,100.0,100,100,100,395.0

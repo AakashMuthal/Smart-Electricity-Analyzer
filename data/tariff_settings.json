@@ -1,0 +1,18 @@
+{
+    "slabs": [
+        {
+            "limit": 100,
+            "rate": 3
+        },
+        {
+            "limit": 200,
+            "rate": 5
+        },
+        {
+            "limit": null,
+            "rate": 7
+        }
+    ],
+    "fixed_charge": 80,
+    "additional_charge_rate": 0.05
+}
